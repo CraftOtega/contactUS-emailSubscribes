@@ -16,7 +16,7 @@ PHP
 
 
 ### ADVICE
-1.If you want  your local machine should be able to send emails then Search on platforms like YOUTUBE,
-STACK OVERFLOW, OR GOOGLE SEARCH for configuration guide.
+1.If you want  your local machine should be able to send emails then Search on platforms like YOUTUBE,STACK OVERFLOW, OR GOOGLE SEARCH for configuration guide.
+
 2.If you didn't want send emails remove the  code that have to do with email sending, it works.
 
